@@ -57,4 +57,4 @@ Prompt engineering helps avoid confusing and vague answers and responses from th
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Explain the theory of change versus Using peer reveiwed scholary articles, define the theory of change with current examples 
+'Explain the theory of change' versus 'Using peer reveiwed scholary articles, define the theory of change with current examples' 
